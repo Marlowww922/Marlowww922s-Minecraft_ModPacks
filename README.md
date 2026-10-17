@@ -14,3 +14,12 @@ To use OG Sounds (Just Download them OK, and then double click it and it would o
 Or just download the single ones and just double click to play OK?!
 
 
+
+# Channel Details 
+
+## Youtube.com/@Marlowww922
+
+<img width="640" height="443" alt="Youtube_logo" src="https://github.com/user-attachments/assets/762c6932-c14f-4a28-b27d-77b45a372e01" />
+
+
+
