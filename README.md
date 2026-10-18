@@ -9,7 +9,7 @@ For Bedrock players - Download this Mod and then open up files (Android or IOS) 
 
 # Mod Pack instructions 
 Open up the mod pack in files (Double click Zip) and it should turn into a folder. Open the folder
-And open up Minecraft Launcher, but first have the Fabric API mod and the Mod loader downloaded to open up the Launcher and go to the play and then click on the down arrow and click select mod and then the Modpack  folder and then Marlowww Vanilla Plus CPVP Optimizer (I think its called that). 
+And open up Minecraft Launcher, but first have the Fabric API mod and the Mod loader downloaded to open up the Launcher and go to the play and then click on the down arrow and click select Fabric and then the files menu will pop up and then select mods and then the Modpack  folder and then Marlowww Vanilla Plus CPVP Optimizer (I think its called that). 
 
 <img width="1600" height="900" alt="minecraft-mods-loader-selection-menu-curseforge" src="https://github.com/user-attachments/assets/4a579790-188b-4bc8-bf43-1beed78cb826" />
 
