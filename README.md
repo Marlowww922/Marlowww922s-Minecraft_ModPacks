@@ -12,6 +12,6 @@ To use OG Sounds (Just Download them OK, and then double click it and it would o
 
 # Channel Details 
 
-## [Youtube.com/@Marlowww922](https://youtube.com)
+## [Youtube.com/@Marlowww922](https://youtube.com/@Marlowww922)
 
 <img width="640" height="443" alt="Youtube_logo" src="https://github.com/user-attachments/assets/762c6932-c14f-4a28-b27d-77b45a372e01" />
